@@ -1,0 +1,22 @@
+2025-02-28 07:44:38 - To: GAN@GMAIL.COM
+Subject: 您的教师账号已获批准
+尊敬的 GAN SHI WEI,
+
+您在CampusConnect系统中的教师注册请求已被批准！
+
+您现在可以登录您的账户并开始创建课程。
+
+谢谢！
+- CampusConnect管理团队
+
+2025-02-28 07:53:28 - To: teacher1@example.com
+Subject: 您的教师账号已获批准
+尊敬的 GAN SHI WEI,
+
+您在CampusConnect系统中的教师注册请求已被批准！
+
+您现在可以登录您的账户并开始创建课程。
+
+谢谢！
+- CampusConnect管理团队
+

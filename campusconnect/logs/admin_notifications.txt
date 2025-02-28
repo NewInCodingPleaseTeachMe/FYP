@@ -1,0 +1,7 @@
+2025-02-28 07:46:49 - A new teacher has registered and is pending approval:
+Name: GAN SHI WEI
+Email: teacher1@example.com
+Employee ID: 123123
+
+Please login to the admin panel to review this registration.
+
